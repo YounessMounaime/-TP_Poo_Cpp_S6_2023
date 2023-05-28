@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684527555 source:c:\users\kh\desktop\programes en c++\doc_bib\main.cpp
+	<iostream>
+	"Cpp:../../doc.h"
+
+1684527375 source:c:\users\kh\desktop\programes en c++\doc_bib\doc.cpp
+	"Cpp:../../doc.h"
+
+1684527375 c:\users\kh\desktop\programes en c++\doc_bib\doc.h
+	<iostream>
+

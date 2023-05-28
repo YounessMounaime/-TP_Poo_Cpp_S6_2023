@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684524860 source:c:\users\kh\desktop\programes en c++\match\main.cpp
+	<iostream>
+	"Cpp:../../match.h"
+
+1684524945 source:c:\users\kh\desktop\programes en c++\match\match.cpp
+	"Cpp:../../match.h"
+
+1678883206 c:\users\kh\desktop\programes en c++\match\match.h
+	<iostream>
+

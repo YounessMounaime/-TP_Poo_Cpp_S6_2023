@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1684510028 source:c:\users\kh\desktop\programes en c++\classes_abstraites\main.cpp
+	<iostream>
+	"Cpp:../../abs.h"
+
+1685277206 source:c:\users\kh\desktop\programes en c++\classes_abstraites\abs.cpp
+	"Cpp:../../abs.h"
+
+1685277248 c:\users\kh\desktop\programes en c++\classes_abstraites\abs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+

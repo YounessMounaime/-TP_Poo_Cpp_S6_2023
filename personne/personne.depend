@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1685219409 source:c:\users\kh\desktop\programes en c++\personne\personne.cpp
+	"Cpp:../../personne.h"
+
+1685219241 c:\users\kh\desktop\programes en c++\personne\personne.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1685217717 source:c:\users\kh\desktop\programes en c++\personne\main.cpp
+	"Cpp:../../personne.h"
+

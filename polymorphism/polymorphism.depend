@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1681249145 source:c:\users\kh\desktop\programes en c++\polymorphism\main.cpp
+	"Cpp:../../bat.h"
+
+1680707534 c:\users\kh\desktop\programes en c++\polymorphism\bat.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1684527851 source:c:\users\kh\desktop\programes en c++\polymorphism\bat.cpp
+	"Cpp:../../bat.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1684525471 source:c:\users\kh\desktop\programes en c++\multiple_tp\main.cpp
+	<iostream>
+	"Cpp:../../multiple.h"
+
+1684525358 source:c:\users\kh\desktop\programes en c++\multiple_tp\multiple.cpp
+	"Cpp:../../multiple.h"
+
+1684525358 c:\users\kh\desktop\programes en c++\multiple_tp\multiple.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+

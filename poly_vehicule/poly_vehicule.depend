@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1684526748 source:c:\users\kh\desktop\programes en c++\poly_vehicule\main.cpp
+	<iostream>
+	"Cpp:../../veh.h"
+
+1681312344 source:c:\users\kh\desktop\programes en c++\poly_vehicule\veh.cpp
+	"Cpp:../../veh.h"
+
+1684527079 c:\users\kh\desktop\programes en c++\poly_vehicule\veh.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
